@@ -139,7 +139,7 @@ nav ul:after {
     clear: both;
 }
 
-gggggggg nav a {
+nav a {
     text-decoration: none;
     display: block;
     -webkit-transition: .10s linear;
